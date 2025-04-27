@@ -1,7 +1,7 @@
 import os
 
 import django_heroku
-from decouple import config
+from decouple import config, Csv
 
 # import django_heroku
 
